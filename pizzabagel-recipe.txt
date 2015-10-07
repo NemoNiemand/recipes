@@ -1,0 +1,10 @@
+Ingredients:
+    one bagel
+    quarter cup tomato sauce
+    shredded mozzerella cheese
+    
+Instructions:
+    Toast bagel
+    Pre-heat oven to 350 degrees
+    Add sauce and cheese to bagel
+    Bake bagel in oven for 3 minutes or until cheese is melted
